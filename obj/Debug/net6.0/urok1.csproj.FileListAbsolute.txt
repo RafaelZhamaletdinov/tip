@@ -1,0 +1,15 @@
+C:\Games\pit\urok1\bin\Debug\net6.0\urok1.exe
+C:\Games\pit\urok1\bin\Debug\net6.0\urok1.deps.json
+C:\Games\pit\urok1\bin\Debug\net6.0\urok1.runtimeconfig.json
+C:\Games\pit\urok1\bin\Debug\net6.0\urok1.dll
+C:\Games\pit\urok1\bin\Debug\net6.0\urok1.pdb
+C:\Games\pit\urok1\obj\Debug\net6.0\urok1.csproj.AssemblyReference.cache
+C:\Games\pit\urok1\obj\Debug\net6.0\urok1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\pit\urok1\obj\Debug\net6.0\urok1.AssemblyInfoInputs.cache
+C:\Games\pit\urok1\obj\Debug\net6.0\urok1.AssemblyInfo.cs
+C:\Games\pit\urok1\obj\Debug\net6.0\urok1.csproj.CoreCompileInputs.cache
+C:\Games\pit\urok1\obj\Debug\net6.0\urok1.dll
+C:\Games\pit\urok1\obj\Debug\net6.0\refint\urok1.dll
+C:\Games\pit\urok1\obj\Debug\net6.0\urok1.pdb
+C:\Games\pit\urok1\obj\Debug\net6.0\urok1.genruntimeconfig.cache
+C:\Games\pit\urok1\obj\Debug\net6.0\ref\urok1.dll
